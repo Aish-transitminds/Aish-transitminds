@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently studying<br>👯 I’m looking to collaborate new innovations<br>🤝 I’m looking for help with learning complicated models<br>⚡I 'm passionate about exploring the world of AI models and their potential. Currently, I'm diving deep into learning React and building AI bots – always looking for new ways to innovate!<br><br>Feel free to reach out: masterocker123456789@gmail.com
-
+https://www.bing.com/images/search?view=detailV2&ccid=fbTqo%2bRy&id=9E4C23661E898F24CFAE707E116E0E4056D67CB9&thid=OIP.fbTqo-RycsjljuAY_DkLfQAAAA&mediaurl=https%3a%2f%2fmedia.tenor.com%2fimages%2f7db4eaa3e47272c8e58ee018fc390b7d%2ftenor.gif&exph=198&expw=220&q=animated+girl+coding+gif&simid=608026654048343932&FORM=IRPRST&ck=56505E2B5A0F9890BFD5B9A68952B6D1&selectedIndex=0&itb=0
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/AISHWARYA) 
