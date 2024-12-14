@@ -4,9 +4,7 @@
 ![250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4](https://github.com/user-attachments/assets/d33de44d-8216-4628-93df-bdda45ee2a75)
 
 
-
-## 🌐 Socials:
-[![Behance](https![cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2](https://github.com/user-attachments/assets/89618a26-0ec9-47ba-be87-bf708fac253e)
+(https![cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2](https://github.com/user-attachments/assets/89618a26-0ec9-47ba-be87-bf708fac253e)
 ://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/AISHWARYA) 
 
 # 💻 Tech Stack:
