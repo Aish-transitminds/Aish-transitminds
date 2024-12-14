@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently studying<br>👯 I’m looking to collaborate new innovations<br>🤝 I’m looking for help with learning complicated models<br>⚡I 'm passionate about exploring the world of AI models and their potential. Currently, I'm diving deep into learning React and building AI bots – always looking for new ways to innovate!<br><br>Feel free to reach out: masterocker123456789@gmail.com
-![250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4](https://github.com/user-attachments/assets/41fcc9b7-5b8c-464a-ae1b-993fa8bbfcf7)
+![tenor](https://github.com/user-attachments/assets/6be3cb44-c971-4498-b828-91f3405fcedf)
+
 
 
 ## 🌐 Socials:
