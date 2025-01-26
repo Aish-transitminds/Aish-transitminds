@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently studying<br>👯 I’m looking to collaborate new innovations<br>🤝 I’m looking for help with learning complicated models<br>⚡I 'm passionate about exploring the world of AI models and their potential. Currently, I'm diving deep into learning React and building AI bots – always looking for new ways to innovate!<br><br>Feel free to reach out: masterocker123456789@gmail.com
-<br><br>file:///C:/Users/Aish/OneDrive/Desktop/new%20.html
+
 
 ![250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4](https://github.com/user-attachments/assets/9f1f0078-48c5-41ec-8d2f-8cb873fe6ec8)
 
